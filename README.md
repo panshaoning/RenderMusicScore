@@ -39,12 +39,11 @@ export PATH=/usr/local/humextra-master/bin:$PATH
 also need ffmpeg .
 
 # run 
-
-/********** run  **************/
-1 .  python makefile.py Castro
-2 .  open & view  such as 
-	index.html?id=Castro_1 
-	index.html?id=Castro_2 
+1.   python makefile.py Castro
+2.   open & view  such as 
+   
+    index.html?id=Castro_1 
+    index.html?id=Castro_2 
 
 
 
