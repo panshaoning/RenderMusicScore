@@ -36,12 +36,15 @@ export PATH=/usr/local/humdrum-tools-master/humdrum/bin:$PATH
 export PATH=/usr/local/humextra-master/bin:$PATH
 
 
+also need ffmpeg .
+
 # run 
 
 /********** run  **************/
-1.  python  Castro
-2.  open & view   index.html?id=Castro_1 
-	or   	    	index.html?id=Castro_2 
+1 .  python makefile.py Castro
+2 .  open & view  such as 
+	index.html?id=Castro_1 
+	index.html?id=Castro_2 
 
 
 
