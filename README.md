@@ -1,4 +1,12 @@
-#install 
+# RenderMusicScore
+
+1. 渲染乐谱 & 跟随音乐 高亮乐符
+2. 拆分midi channel，针对每个channel生成 musicXML &&  krn 
+3. midi conver to mp3
+
+
+
+# install 
 
 /********** install **************/
 
@@ -28,7 +36,7 @@ export PATH=/usr/local/humdrum-tools-master/humdrum/bin:$PATH
 export PATH=/usr/local/humextra-master/bin:$PATH
 
 
-#run 
+# run 
 
 /********** run  **************/
 1.  python  Castro
