@@ -1,0 +1,1940 @@
+**kern
+*staff1
+=1-
+*clefG2
+*M4/4
+1FF
+4r
+3%2FF
+1r
+4dd 4bb-
+2cc 2aa
+3r
+=2
+8g 8b- 8gg
+4.r
+8r
+1r
+8f 8a 8ff
+8f
+8e 8g 8ee
+8e
+4b- 4dd
+2d
+[2d
+8B-
+8c
+[8f
+8r
+8d]
+=3
+8r
+2f]
+8r
+1r
+2r
+4BB-
+4BB- 4BB-
+2E-
+[2E-
+8r
+8B-
+8c
+[8f
+8r
+8E-]
+=4
+8r
+4.f]
+8r
+1r
+2r
+4FF
+6FF
+12r
+2BB-
+[2BB-
+8r
+8B-
+8c
+8g
+8r
+8BB-]
+=5
+4.f
+8r
+8r
+1r
+8BB-
+8BB-
+4.C
+4.C 4.C
+4B-
+8C
+8r
+8C
+4f
+8F
+8F
+8BB-
+8BB-
+=6
+2c 2e
+8r
+8r
+2.r
+8GG
+8GG
+8C
+8C
+8G
+12G
+q2.166667r
+2g
+2r
+8a
+8g
+=7
+1c 1f 1a
+8C 8F
+2..f
+8FF
+8C
+2F
+8r
+16g
+16a
+=8
+2G 2c 2e
+8r
+8cc
+8GG
+16cc
+8.cc
+8C
+12G
+8dd
+q2.166667r
+4g
+4.cc
+4c
+16dd
+16ee
+=9
+4A 4d 4f
+8r
+8ff
+8AA
+16ff
+8.ff
+8r
+8D
+2A 2c 2d 2f
+12F
+8ff
+q2.166667r
+8ff
+8ee
+16dd
+8cc
+8r
+[16dd
+=10
+2B- 2d
+8BB- 8D 8F
+2dd]
+8FF
+8BB-
+8F
+4r
+8B-
+4r
+[4BB-
+16c 16cc
+8dd
+16r
+8b-
+8cc
+16BB-]
+16r
+=11
+2c 2f 2a 2cc
+8FF
+4.cc
+8C
+8F
+12c
+8cc
+q2.166667r
+4r
+16a
+16g
+4f
+4c 4f 4a
+16a
+16b-
+=12
+2c 2f 2g
+8GG 8C
+8a
+8GG
+8g
+8C
+8g
+8GG
+16a
+[4g
+4c 4e
+4E 4G
+16g]
+4c 4e
+6E 6G
+8a
+16g
+12r
+[16g
+=13
+2d 2f 2a
+8BB- 8D 8F
+8g]
+8FF
+8f
+8D
+8f
+16f
+[2F
+[4f
+2d 2f
+16f]
+8g
+8f
+8F]
+=14
+3%2A 3%2c 3%2f
+3FF 3F
+2f
+6r
+3c
+4r
+3r
+8a
+6r
+8g
+=15
+8f 8a
+3%2F
+2..f
+8c
+8f 8a
+8c
+8f 8a
+8c
+3r
+8f 8a
+8c
+16g
+16a
+=16
+8e 8g
+3%2C
+8cc
+8c
+16cc
+8.cc
+8e 8g
+8c
+8dd
+8e 8g
+4.cc
+8c
+3r
+8e 8g
+8c
+16dd
+16ee
+=17
+8d 8f
+3%2D
+8ff
+8A
+16ff
+8.ff
+8d 8f
+8A
+8ff
+8d 8f
+8ff
+8A
+8ee
+3r
+8d 8f
+16dd
+8cc
+8A
+[16dd
+=18
+8c 8d 8f
+3%2BB-
+4..dd]
+8B-
+8c 8d 8f
+8B-
+4r
+8c 8d 8f
+8B-
+3r
+16r
+8c 8d 8f
+8dd
+8B-
+8cc
+=19
+8c 8f
+3%2F
+4.cc
+8A
+8c 8f
+8A
+8cc
+8c 8f
+16a
+16g
+8A
+6f
+3r
+8c 8f
+12r
+8A
+16a
+16b-
+=20
+8c 8e
+3%2C
+8a
+8G
+8g
+8c 8e
+8g
+8G
+16a
+4g
+8c 8e
+8G
+3r
+16r
+8c 8e
+8a
+8G
+16g
+[16g
+=21
+8B- 8d
+3%2BB-
+16g]
+16r
+8F
+8f
+8B- 8d
+8f
+8F
+16f
+[4f
+8B- 8d
+8F
+3r
+16f]
+8B- 8d
+8g
+8F
+8f
+=22
+8A 8c
+2.FF
+2f
+8F
+8A 8c
+8F
+2F 2A 2c
+4.r
+4FF
+16dd
+16ee
+=23
+4.f 4.b- 4.cc
+8BB- 8D 8F 8B-
+8ff
+8B-
+16ff
+8.ff
+8c
+8f 8b-
+8d
+8ff
+4e 4g 4cc
+8C
+8ee
+8dd
+[4G
+8c
+16cc
+8.cc
+8cc
+16G]
+16r
+=24
+2f 2a 2cc
+8FF
+6cc
+8C
+12r
+8A
+16a
+8.g
+[2c
+2f
+3f
+6r
+16c]
+16r
+=25
+2c 2f
+8BB-
+8r
+8F
+16ff
+16ff
+8B-
+8ff
+8BB-
+16ff
+8.gg
+2c 2e 2g
+8C
+8G
+8gg
+8c
+16ff
+8gg
+8G
+[16aa
+=26
+4.c 4.f 4.a
+8FF
+4..aa]
+8C
+8F
+6c
+[2ff
+16r
+6aa
+12r
+8F
+12r
+8E
+16gg
+8ff
+8C
+8ff]
+16r
+=27
+4.d 4.f 4.b-
+4.r
+2r
+8BB-
+8r
+8F
+16ff
+16ff
+8B-
+8ff
+8f 8b-
+8BB-
+8ff
+[2d
+2e 2cc
+4g
+8C
+4gg
+8G
+4r
+8c
+8r
+8C
+16cc
+8d]
+16cc
+=28
+4c 4f 4a
+4FF 4AA 4F
+6aa
+12r
+4c 4e 4a
+4EE 4E
+6gg
+12r
+2A 2d 2f
+4.FF 4.AA 4.D
+3ff
+6r
+8r
+=29
+4F 4B- 4d
+8BB-
+8r
+8F
+16ff
+16ff
+8F
+8B-
+8ff
+8d
+8BB-
+16ff
+8.gg
+4c 4e 4g
+8C
+8G
+16gg
+16gg
+8c
+6c
+16ff
+8ee
+8g
+12r
+[16ff
+=30
+12b- 12gg
+16r
+8r
+2...ff]
+12ee-
+24r
+4b-
+8BB-
+q3.416667r
+8E-
+[2e- [2g [2b-
+[2G
+8e-] 8g] 8b-]
+8G]
+16r
+=31
+4.B- 4.d
+8BB-
+1r
+16D
+16F
+8B-
+4.b- 4.dd 4.ff
+6d
+12r
+8BB-
+4B- 4d
+6F
+12r
+=32
+4c 4d
+8r
+1r
+8FF
+4d 4f
+8BB-
+4.FF
+16f 16b- 16cc
+16r
+16b-
+16f
+4c 4g
+8BB-
+8FF
+=33
+2G 2c 2e
+8r
+2.r
+4GG
+8C
+4r
+3G
+4g
+8a
+6r
+8g
+=34
+2.a 2.cc 2.ff
+8FF
+3%2f
+8C
+8F
+8A
+8c
+8A
+9...r
+4f 4a 4cc
+8f
+8c
+16g
+16a
+=35
+2.e 2.g 2.cc
+8C
+8cc
+8G
+16cc
+8.cc
+8c
+8e
+8dd
+8c
+4cc
+8G
+8g 8cc
+8E
+8r
+8e 8g
+8G
+16dd
+16ee
+=36
+2.f 2.a 2.dd
+8D
+8ff
+8A
+16ff
+8.ff
+8d
+8f
+8ff
+8d
+8ff
+8A
+8ee
+4a 4dd
+8f
+16dd
+8cc
+8d
+[16dd
+=37
+2.d 2.f 2.b-
+8BB-
+q2.416667dd]
+8F
+8B-
+8d
+6B- 6d 6f
+q0.583333r
+12r
+8f 8b-
+8A 8c
+8dd
+8f
+8B- 8d
+8cc
+=38
+2.c 2.f
+8FF
+4cc
+8C
+8F
+8r
+8C
+8cc
+8A
+16a
+16g
+8C
+6f
+4c 4f 4a
+8F
+12r
+8C
+16a
+16b-
+=39
+2c 2e 2g
+8C
+8a
+8G
+8g
+8c
+8g
+16a
+[4d
+4g
+4g
+16d]
+16r
+16r
+4g 4cc
+8c
+8a
+8G
+16g
+[16g
+=40
+8BB-
+4g]
+[2d [2f [2b-
+8F
+8f
+8B-
+8f
+8d
+16f
+[4f
+8f
+8.d] 8.f] 8.b-]
+8d
+16f
+16f]
+16f 16dd
+8B-
+8g
+16b-
+8f
+8F
+8f
+=41
+8FF
+2f
+[2a [2cc [2ff
+8C
+8F
+8A
+8A 8c 8f
+4.r
+8a] 8cc] 8ff]
+8g
+[4G
+4cc
+16dd
+16G]
+16r
+16ee
+=42
+8b- 8dd 8ff
+8BB-
+8ff
+8b-
+8F
+16ff
+8.ff
+8dd
+8B-
+8ff
+8BB-
+8ff
+8g 8cc 8ee
+8C
+8ee
+8g
+8G
+8dd
+8cc
+8c
+16cc
+8.cc
+8ee
+8C
+=43
+4.a 4.cc 4.ff
+8FF
+6cc
+8C
+12r
+8F
+16a
+8g
+8FF 8C 8F
+[2a [2cc [2ff
+16r
+8C
+3f
+8F
+4C
+6r
+8a] 8cc] 8ff]
+=44
+8f 8b- 8dd
+8BB-
+8r
+8f
+8F
+16ff
+16ff
+8b-
+8B-
+8ff
+8dd
+8BB-
+16ff
+8.gg
+8g 8cc 8ee
+8C
+8g
+8G
+8gg
+8cc
+8c
+16ff
+8gg
+8ee
+8C
+[16aa
+=45
+4.a 4.cc 4.ff
+8FF
+4..aa]
+8C
+8F
+4cc 4ff 4aa
+6FF 6C 6F
+16r
+6aa
+12r
+8a 8ff
+8FF 8F
+12r
+8g 8ee
+8EE 8E
+16gg
+8ff
+8a 8cc
+8C
+16r
+=46
+4.d 4.f 4.b-
+8BB-
+8r
+8F
+16ff
+16ff
+8B-
+8ff
+8d 8f 8b-
+8BB-
+16ff
+3gg
+4e 4g 4cc
+8C
+8G
+8e 8g 8cc
+8c
+18...r
+8dd
+8C
+16cc
+16cc
+=47
+4cc 4ff 4aa
+8FF
+6aa
+8C 8F
+12r
+4cc 4ee 4gg
+8EE
+6gg
+4AA 4E
+12r
+2a 2dd 2ff
+3ff
+8AA
+4D
+6r
+=48
+4.f 4.b- 4.dd
+8BB-
+8r
+8F
+16ff
+16ff
+8B-
+8ff
+8f 8b- 8dd
+8BB-
+16ff
+8.gg
+2g 2cc 2ee
+8C
+8G
+16gg
+16gg
+8c
+16ff
+8ee
+8C
+[16ff
+=49
+4.a 4.cc 4.ff
+8FF
+4..ff]
+8C
+8F
+4FF 4C 4F
+[2a [2cc [2ff
+8.r
+8FF 8F
+8aa
+4FF 4F
+16gg
+8ff
+8a] 8cc] 8ff]
+16r
+=50
+4.a 4.cc 4.ff
+8FF
+1r
+8C
+8F
+6FF 6C 6F
+[2a [2cc [2ff
+12r
+16FF 16F
+16FF 16F
+4FF 4F
+8a] 8cc] 8ff]
+=51
+4.a
+4..r
+8BB-
+1r
+8F
+8A
+8BB-
+[2g
+16a
+8.cc
+8C
+8E
+8.dd
+8c
+[8a
+8C
+8g_
+=52
+1g]
+2..a]
+8D
+1r
+8A
+8.d
+16f
+4d
+4C 4c
+=53
+4.a
+8BB-
+1r
+8F
+8A
+16g
+8BB-
+16a
+8.cc
+8C
+8E
+8.dd
+8c
+[8a [8aa
+8C
+=54
+8FF
+1r
+8C
+8F
+8c
+4d
+4c
+8a_ 8aa_
+=55
+8BB- 8A
+2..r
+1r
+2.a] 2.aa]
+8F
+8A
+8BB-
+8C
+8E
+8r
+8c
+[8a
+[8aa
+8C
+=56
+8D
+4.aa]
+1r
+4a]
+8d
+16g
+8E
+16a
+8.cc
+8e
+8F
+[4dd
+8f
+4G
+16dd_
+8dd_
+8r
+=57
+8GG
+1r
+2dd_
+2r
+8D
+8G
+8D
+8G
+8dd]
+4r
+16r
+8D
+16cc
+12g 12dd
+8G
+16r
+16aa
+24r
+[8aa
+8D
+=58
+8EE
+1r
+16aa]
+8.gg
+8E
+4.dd
+8A
+8E
+4A
+8cc
+8dd
+4E 4A 4c
+[8aa
+=59
+8r
+1r
+16aa]
+8.gg
+8AA
+4.dd
+8F#
+8AA
+8F#
+4cc
+8AA
+8F#
+[8dd [8ff# [8aa
+8AA
+=60
+8r
+1r
+4.dd] 4.ff#] 4.aa]
+8AA
+8F#
+16dd 16gg
+4AA
+16ff#
+16dd
+8a
+8AA
+8.g
+16D
+8.D
+16g
+16f#
+=61
+16d
+8AA 8D
+4r
+8A
+8AA 8D
+16G
+16F#
+4AA 4D
+8dd
+16G
+4d
+8dd
+8GG 8C
+8ee
+16A 16d
+8GG 8C
+8dd
+8.A 8.d
+6GG 6C
+8ee
+8Fn 8A 8d
+8r
+[8ff
+12r
+=62
+8F 8A 8d
+8FF 8BB-
+4.ff]
+2r
+4F 4A 4d
+8FF 8BB-
+4FF 4BB-
+8G 8c 8e
+16ff
+16ff
+8G 8c 8e
+8GG 8C
+8gg
+8r
+4c 4e
+[4G
+8GG 8C
+8ff
+6GG 6C
+8gg
+8B- 8d 8f
+8r
+8G_
+[8aa
+12r
+=63
+8B- 8d 8f
+8AA 8D
+4.aa]
+8r
+4.G]
+4d 4f
+6B-
+8AA 8D
+4AA 4D
+q2.333333r
+8c 8e 8g
+8aa
+8c 8e 8g
+8GG 8C
+4gg
+4c 4e 4g
+8GG 8C
+6GG 6C
+8r
+8d 8f 8a
+16aa
+12r
+16r
+=64
+8d 8f 8a
+8FF 8C 8F
+2ff
+4d 4f 4a
+8FF 8C 8F
+4FF 4C 4F
+8c 8e 8g
+8c 8e 8g
+8FF 8C 8F
+4.r
+4c 4e 4g
+8FF 8C 8F
+4FF 4C 4F
+8f 8a 8cc 8ff
+16dd
+16ee
+=65
+8f 8a 8cc 8ff
+8BB-
+8ff
+4.f 4.a 4.cc 4.ff
+8F
+16ff
+8.ff
+8B-
+8BB-
+8ff
+8ccc
+8C
+8ee
+8bb-
+8G
+8dd
+8aa
+8c
+16cc
+8.cc
+[8ff [8bb- [8ddd
+8C
+=66
+8FF
+6cc
+4ff] 4bb-] 4ddd]
+8C
+12r
+8ff 8bb- 8ddd
+8F
+16a
+8.g
+4.gg 4.ccc 4.eee
+8FF
+8FF
+3f
+8C
+8gg 8ccc 8eee
+8F
+6r
+[8ff [8aa [8ccc
+8FF
+=67
+8BB-
+8r
+8ff] 8aa] 8ccc]
+8aa
+8F
+16ff
+16ff
+8gg
+8B-
+8ff
+8ff
+8BB-
+16ff
+8.gg
+8ccc
+8C
+8bb-
+8G
+8gg
+8aa
+8c
+16ff
+8gg
+[8b- [8dd
+8C
+[16aa
+=68
+8FF
+4..aa]
+4b-] 4dd]
+8C
+8b- 8dd
+8F
+4.g 4.cc 4.ee
+6A 6c 6f
+16r
+16aa
+12r
+8aa
+8f
+16r
+8g 8cc 8ee
+8e
+16gg
+8ff
+[8a [8cc [8ff
+8r
+8F 8A 8c
+16r
+=69
+8BB-
+8r
+4.a] 4.cc] 4.ff]
+4.r
+8F
+16ff
+16ff
+8B-
+8ff
+4ff 4aa
+6cc
+8BB-
+16ff
+3gg
+8C
+3r
+4cc 4ee 4gg
+8G
+8c
+18...r
+[8b- [8dd [8ff
+8C
+16cc
+16cc
+=70
+8FF
+6aa
+4b-] 4dd] 4ff]
+8C 8F
+12r
+8b- 8dd 8ff
+8EE
+6gg
+4.cc 4.ee 4.gg
+8C 8E
+12r
+8r
+3ff
+8AA
+8g 8cc
+4D
+6r
+[8cc [8ff [8aa
+=71
+8r
+8r
+8cc] 8ff] 8aa]
+4cc 4gg
+8FF
+16ff
+16ff
+8.BB-
+8ff
+4a 4dd 4ff
+16ff
+8.r
+8.gg
+8ee
+8GG
+16gg
+16gg
+8dd 8ff
+4C
+16ff
+8ee
+[8f [8b-
+[16ff
+=72
+3%2FF 3%2C 3%2F
+2...ff]
+4f] 4b-]
+8f 8b-
+4.g 4.cc 4.ee
+3r
+8g 8cc 8ee
+[8a [8cc [8ff
+16r
+=73
+8B-
+8r
+2..a] 2..cc] 2..ff]
+8d
+16ff
+16ff
+8.f
+8ff
+16ff
+16r
+3gg
+8c
+[4e
+18...r
+[8b- [8dd [8ff
+16cc
+16e]
+16r
+16cc
+=74
+6A 6c 6f
+6aa
+4b-] 4dd] 4ff]
+12r
+12r
+8b- 8dd 8ff
+6A 6c 6e
+6gg
+4.cc 4.ee 4.gg
+12r
+12r
+6F 6A 6d
+3ff
+12r
+8g 8cc
+16e
+16r
+6r
+[8cc [8ff [8aa
+16d
+16r
+=75
+8BB-
+8r
+8cc] 8ff] 8aa]
+4cc 4gg
+8F
+16ff
+16ff
+8B-
+8ff
+4a 4dd 4ff
+8d
+16ff
+8.gg
+8C
+8ee
+8G
+16gg
+16gg
+8dd 8ff
+8c
+16ff
+8ee
+[8f [8b-
+8e
+[16ff
+=76
+8FF 8C 8F
+4..ff]
+4f] 4b-]
+8FF 8C 8F
+8f 8b-
+8FF 8C 8F
+4.g 4.cc 4.ee
+8FF 8C 8F
+8.r
+8FF 8C 8F
+8FF 8C 8F
+8aa
+8g 8cc 8ee
+8FF 8C 8F
+16gg
+[8.ff
+[8a [8cc [8ff
+8FF 8C 8F
+=77
+8BB-
+2..a] 2..cc] 2..ff]
+2ff_
+8F
+8B-
+8BB-
+8C
+4ff_
+8G
+8c
+16ff]
+8.r
+8r
+8C
+=78
+8FF
+2..r
+2r
+8C
+8F
+8FF
+8FF
+8r
+8C
+8aa
+8F
+16gg
+[8.ff
+8r
+8FF
+=79
+8BB-
+2..r
+2ff_
+8F
+8B-
+8BB-
+8C
+4ff_
+8G
+8c
+16ff]
+8.r
+8r
+8C
+=80
+8FF
+2..r
+2r
+8C
+8F
+6A 6c 6f
+8r
+12r
+8f
+8ff
+8e
+16dd
+[8.cc
+8r
+8F 8A 8c
+=81
+8BB-
+2..r
+2cc_
+8F
+8B-
+8BB-
+8C
+4cc_
+8G
+8c
+16cc]
+8.r
+8r
+8C
+=82
+8FF
+2..r
+2r
+8C 8F
+8EE
+4C 4E
+8r
+16AA
+16ccc
+16r
+16r
+4D
+16aa
+[8.ff
+8r
+=83
+8r
+2.ff]
+2..r
+8FF
+8.BB-
+8.r
+8GG
+16gg
+4C
+16gg
+16ee
+8r
+16r
+[16ff
+=84
+8BB-
+2...ff]
+2..r
+8F
+8A
+8BB-
+8C
+8E
+8c
+8r
+8C
+16r
+=85
+8r
+1r
+2..r
+16AA
+16r
+16D
+16r
+16F
+16r
+6A
+12r
+6F
+8r
+12r
+=86
+16BB- 16A
+1r
+2..r
+16r
+16F
+16r
+16A
+16r
+16BB-
+16r
+16C
+16r
+16E
+16r
+16c
+16r
+8r
+16C
+16r
+=87
+16FF
+1r
+2..r
+16r
+16C
+16r
+16F
+16r
+16A
+16r
+16F 16A 16c
+16r
+16F 16A 16c
+16r
+16F 16A 16c
+16r
+8r
+16F 16A 16c
+16r
+=88
+16BB-
+1r
+2..r
+16r
+16F
+16r
+16A
+16r
+16BB-
+16r
+16C
+16r
+16E
+16r
+16c
+16r
+8r
+12C
+24r
+=89
+8r
+1r
+2..r
+16AA
+16r
+12D
+q1.166667r
+16AA
+16r
+12D
+6r
+8r
+=90
+16BB-
+1r
+2..r
+16r
+16F
+16r
+16A
+16r
+12BB-
+6r
+16AA
+16r
+16E
+16r
+8r
+16C
+16r
+=91
+16FF
+1r
+2..r
+16r
+16C
+16r
+16F
+16r
+16A
+16r
+16F 16A 16c
+16r
+16F 16A 16c
+16r
+16F 16A 16c
+16r
+8r
+16F 16A 16c
+16r
+=92
+16BB- 16A
+1r
+2..r
+16r
+16F
+16r
+16A
+16r
+16BB-
+16r
+16C
+16r
+16E
+16r
+16c
+16r
+8r
+12C
+24r
+=93
+8r
+1r
+2..r
+16AA
+16r
+16D
+16r
+16F
+16r
+16A
+16r
+16F
+16r
+16D
+16r
+8r
+16AA
+16r
+=94
+16BB- 16A
+1r
+2..r
+16r
+16F
+16r
+16A
+16r
+16BB-
+16r
+16C
+16r
+16E
+16r
+16c
+16r
+8r
+16C
+16r
+=95
+16FF
+1r
+2..r
+16r
+16C
+16r
+16F
+16r
+16A
+16r
+16F 16A 16c
+16r
+16F 16A 16c
+16r
+16F 16A 16c
+16r
+8r
+16F 16A 16c
+16r
+=96
+16BB- 16A
+1r
+2..r
+16r
+16F
+16r
+16A
+16r
+16BB-
+16r
+16C
+16r
+16E
+16r
+16c
+16r
+8r
+12C
+24r
+=97
+8r
+1r
+2..r
+16AA
+16r
+12D
+q1.166667r
+16AA
+16r
+16D
+16r
+8r
+16AA
+16r
+=98
+16BB-
+1r
+2..r
+16r
+16F
+16r
+16A
+16r
+16BB-
+16r
+16C
+16r
+16E
+16r
+16c
+16r
+8r
+16C
+16r
+=99
+16FF
+1r
+2..r
+16r
+16C
+16r
+16F
+16r
+16A
+16r
+16F 16A 16c
+16r
+16F 16A 16c
+16r
+16F 16A 16c
+16r
+8r
+16F 16A 16c
+16r
+=100
+16BB- 16A
+1r
+2..r
+16r
+16F
+16r
+16A
+16r
+16BB-
+16r
+16C
+16r
+16E
+16r
+16c
+16r
+8r
+12C
+24r
+=101
+8r
+1r
+2..r
+16AA
+16r
+16D
+16r
+16F
+16r
+16A
+16r
+16F
+16r
+16D
+16r
+8r
+16AA
+16r
+=102
+16BB- 16A
+1r
+2..r
+16r
+16F
+16r
+16A
+16r
+16BB-
+16r
+16C
+16r
+16E
+16r
+16c
+16r
+8r
+16C
+16r
+=103
+3%2FF 3%2C 3%2F
+1r
+2..r
+3r
+8r
+=104
+1r
+1r
+2..r
+8r
+=105
+1r
+1r
+2..r
+8r
+=106
+1r
+1r
+2..r
+8r
+=107
+1r
+1r
+2..r
+8r
+=108
+1r
+1r
+2..r
+8r
+=109
+1r
+1r
+2..r
+8r
+=110
+1r
+1r
+2..r
+8r
+=111
+1r
+1r
+2..r
+8r
+=112
+1r
+1r
+2..r
+8r
+=113
+1r
+1r
+2..r
+8r
+=114
+1r
+1r
+2..r
+8r
+=115
+1r
+1r
+2..r
+8r
+=116
+1r
+1r
+2..r
+8r
+=117
+1r
+1r
+2..r
+8r
+=118
+2..r
+8r
+==
+*-

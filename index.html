@@ -1,0 +1,107 @@
+
+<html>
+<head>
+<title> 跟随乐谱 </title>
+<script src="/js/jquery.min.js" type="text/javascript"></script>
+<script src="/js/verovio-toolkit-hum.js" defer></script>
+<script src="/js/humdrum-notation-plugin-worker.js" defer></script>
+<script src="/js/json3.min.js" ></script>
+<script src="/js/common.js" ></script>
+
+<script>
+
+$(function(){
+	TK = new verovio.toolkit();
+
+	TK.setOptions({
+		scale: 45,
+		landscape: true,
+		adjustPageWidth: true
+	});
+
+	var CGI = GetCgiParameters();
+	ID = CGI.id;
+	console.log('id===',ID);
+
+	getHumdrumContent();
+
+	$('#playAudo').on('click',function(){
+		//getTimemap();
+		//fillInTimeKey();
+		var timemap = TIMEMAP;
+		console.log('click-play::',timemap);
+		if (!timemap) {
+			return;
+		}
+		var i;
+		var tstamp = -1;
+		var qstamp = -1;
+		for (i=0; i<timemap.length; i++) {
+			if (Math.abs(timemap[i].qstamp - ques) < 0.01) {
+				tstamp = timemap[i].tstamp;
+				qstamp = timemap[i].qstamp;
+			}
+		}
+		if (tstamp < 0) {
+			return;
+		}
+
+		
+		var anticipation = 0.0;
+		if (!AUDIO) {
+			var element = document.querySelector("#playAudio");
+			PlayAudioFile(ID, element, tstamp - anticipation);
+		} else if (AUDIO.paused) {
+			TurnOffAllNotes();
+			AUDIO.currentTime = tstamp - anticipation;
+			PlayAudioFile(ID, element, tstamp - anticipation);
+		} else {
+			AUDIO.pause();
+			TurnOffAllNotes();
+			AUDIO.currentTime = tstamp - anticipation;
+			AUDIO.play();
+		}
+
+	
+	});
+
+
+	/*
+	var url = './test/hai_1.xml';
+	url = './test/scripts/Trm0047m.krn';
+	fetch(url)
+	.then( (response) => response.text() )
+	.then( (meiXML) => {
+		var target = document.querySelector("#notation");
+		let svg = TK.renderData(meiXML, {});
+		svg = TK.renderToSVG(CURRENT_PAGE, vrvOptions);
+		initializeVerovioNotation();
+	//	target.innerHTML = svg;
+		console.log("Verovio has loaded!");
+		var pagecount = TK.getPageCount();
+		console.log('pagecount',pagecount);
+		prepareQEvents(target);
+
+	});
+	*/
+
+});
+
+</script>
+<link href="https://code.kidstarup.com/css/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body style="margin:20px;">
+<h1> 跟随乐谱  </h1>
+<div class="btn btn-success">
+	<div id="playAudo" title="play (space)"  onclick="PlayAudioFile(ID, this);"  class="play ">
+	play	
+	</div>
+</div>
+
+<div class="content">
+<div class="loading"> 正在载入... </div>
+<div id="humdrum-data" style="display:none"></div>
+</div>
+
+</body>
+</html>
