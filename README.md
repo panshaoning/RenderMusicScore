@@ -53,6 +53,7 @@ also need ffmpeg .
 2.   在本案例中，使用music21 将 midi 各个channel 拆分开了，再单独生成 musicXML 和 krn 。
 3.   假设你需要将 data1.krn  和 data2.krn  结合为一个 krn，那么可以使用humdrum-tools-master/humdrum 提供的 assemble 命令。 但是这个命令也往往会失败。因为往往两个krn文件的节拍时长是不同的。那怎么办呢？ 可以使用humdrum-tools 的 rcheck 命令 来分析两个文件。 data1.krn 数据如下：
 
+
 	**kern
     *clefG2
     *M4/4
@@ -64,8 +65,8 @@ also need ffmpeg .
     2aa 2cc
     3r
     
-rcheck  data1.krn  结果如下。 重要的是 dur 列的数据，代表了
-
+4.   rcheck  data1.krn  结果如下。 重要的是 dur 列的数据，代表了
+ 
    absbeat	dur	bar	beat	::	data
    :::::::::::::::::::::::::::::::::::
    0	0	0	0	::	**kern
@@ -79,7 +80,9 @@ rcheck  data1.krn  结果如下。 重要的是 dur 列的数据，代表了
    12.6667	2	0	12.6667	::	2aa 2cc
    14.6667	1.33333	0	14.6667	::	3r
 
-假设data2.kr2 数据如下
+  
+   假设data2.kr2 数据如下
+
    **kern
    *clefG2
    *M4/4
@@ -87,7 +90,9 @@ rcheck  data1.krn  结果如下。 重要的是 dur 列的数据，代表了
    4c
    2r
    3r
-那么data1 如何 与data2 结合呢？如下。 其中，4%6r 代表什么意思呢？ 4是4/4拍中，1个节拍时间，4%6r 代表 休息6个节拍的时间。 那这里为什么要是休息6个呢？因为data1 中 前3行的总节拍时长是 4(1FF) + 1（4r）+ 1(4FF) = 6.   顺便再补充下，4代表1个节拍，1代表4个，8代表0.5个，16代表0.25个。
+   
+   
+   那么data1 如何 与data2 结合呢？如下。 其中，4%6r 代表什么意思呢？ 4是4/4拍中，1个节拍时间，4%6r 代表 休息6个节拍的时间。 那这里为什么要是休息6个呢？因为data1 中 前3行的总节拍时长是 4(1FF) + 1（4r）+ 1(4FF) = 6.   顺便再补充下，4代表1个节拍，1代表4个，8代表0.5个，16代表0.25个。
 
    !!!data1  !!!data2
    **kern	**kern
@@ -100,3 +105,5 @@ rcheck  data1.krn  结果如下。 重要的是 dur 列的数据，代表了
    4bb-X 4dd	4c
    2aa 2cc	2r
    3r	3r
+
+
