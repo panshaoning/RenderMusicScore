@@ -41,19 +41,19 @@ also need ffmpeg .
 # run 
 1.   python makefile.py Castro
 2.   open & view  such as 
+3.   
    
-    index.html?id=Castro_1 
-    index.html?id=Castro_2 
+   index.html?id=Castro_1 
+   index.html?id=Castro_2 
 
 
 
 # 注意事项
-1. extras.humdrum.org 提供了很多工具用来转换数据。比如 mid2hum，可以将 midi 文件转换为 .krn ，xml2hum 也可以直接将musicXML 转换为 .krn   。但是 往往 midi文件中每个channel的节拍和时间是不同的，所以 mid2hum，xml2hum 往往会失败。
-2. 在本案例中，使用music21 将 midi 各个channel 拆分开了，再单独生成 musicXML 和 krn 。
-3. 假设你需要将 data1.krn  和 data2.krn  结合为一个 krn，那么可以使用humdrum-tools-master/humdrum 提供的 assemble 命令。 但是这个命令也往往会失败。因为往往两个krn文件的节拍时长是不同的。那怎么办呢？ 可以使用humdrum-tools 的 rcheck 命令 来分析两个文件。 
+1.   extras.humdrum.org 提供了很多工具用来转换数据。比如 mid2hum，可以将 midi 文件转换为 .krn ，xml2hum 也可以直接将musicXML 转换为 .krn   。但是 往往 midi文件中每个channel的节拍和时间是不同的，所以 mid2hum，xml2hum 往往会失败。
+2.   在本案例中，使用music21 将 midi 各个channel 拆分开了，再单独生成 musicXML 和 krn 。
+3.   假设你需要将 data1.krn  和 data2.krn  结合为一个 krn，那么可以使用humdrum-tools-master/humdrum 提供的 assemble 命令。 但是这个命令也往往会失败。因为往往两个krn文件的节拍时长是不同的。那怎么办呢？ 可以使用humdrum-tools 的 rcheck 命令 来分析两个文件。 data1.krn 数据如下：
 
-data1.krn 数据如下：
-    **kern
+	**kern
     *clefG2
     *M4/4
     1FF
