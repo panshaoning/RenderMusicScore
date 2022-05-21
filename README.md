@@ -82,31 +82,36 @@ rcheck  data1.krn  结果如下。 重要的是 dur 列的数据，代表了
 
 
 
-假设data2.kr2 数据如下
 
-   **kern
-   *clefG2
-   *M4/4
-   1FF
-   4c
-   2r
-   3r
+
+假设data2.kr2 数据如下:
+
+	**kern
+	*clefG2
+	*M4/4
+	1FF
+	4c
+	2r
+	3r
    
-   
+
 那么data1 如何 与data2 结合呢？如下。 其中，4%6r 代表什么意思呢？ 4是4/4拍中，1个节拍时间，4%6r 代表 休息6个节拍的时间。 那这里为什么要是休息6个呢？因为data1 中 前3行的总节拍时长是 4(1FF) + 1（4r）+ 1(4FF) = 6.   顺便再补充下，4代表1个节拍，1代表4个，8代表0.5个，16代表0.25个。
 
+   
+   
+	!!!data1  !!!data2
+	**kern	**kern
+	*clefG2	*clefG2
+	*M4/4	*M4/4
+	1FF	4%6r
+	4r	.
+	4FF	.
+	1r	1FF
+	4bb-X 4dd	4c
+	2aa 2cc	2r
+	3r	3r
 
-   !!!data1  !!!data2
-   **kern	**kern
-   *clefG2	*clefG2
-   *M4/4	*M4/4
-   1FF	4%6r
-   4r	.
-   4FF	.
-   1r	1FF
-   4bb-X 4dd	4c
-   2aa 2cc	2r
-   3r	3r
 
 
-end!
+
+
