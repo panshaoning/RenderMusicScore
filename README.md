@@ -19,8 +19,9 @@ yum install fluidsynth
 
 install humd tools :
 
-https://github.com/craigsapp/humextra
-https://github.com/humdrum-tools/humdrum-tools
+	https://github.com/craigsapp/humextra
+	https://github.com/humdrum-tools/humdrum-tools
+	https://github.com/craigsapp/humlib
 
 
 after build ,you need add to PATH.
@@ -28,12 +29,12 @@ after build ,you need add to PATH.
 
 such as :
 
-vim /etc/profile
+	vim /etc/profile
 
 add 
 
-export PATH=/usr/local/humdrum-tools-master/humdrum/bin:$PATH
-export PATH=/usr/local/humextra-master/bin:$PATH
+	export PATH=/usr/local/humdrum-tools-master/humdrum/bin:$PATH
+	export PATH=/usr/local/humextra-master/bin:$PATH
 
 
 also need ffmpeg .
