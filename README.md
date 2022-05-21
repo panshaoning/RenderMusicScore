@@ -39,6 +39,10 @@ add
 
 also need ffmpeg .
 
+	https://ffmpeg.org/ 
+	
+
+
 # run 
 1.   python makefile.py Castro
 2.   open & view  such as  
